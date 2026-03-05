@@ -1,0 +1,226 @@
+[
+  {
+    "id": "middle_east",
+    "name": "Middle East Airspace",
+    "status": "closed",
+    "statusLabel": "Closed",
+    "note": "Active conflict zones — major carriers avoiding",
+    "color": "#ef4444",
+    "polygon": [
+      [37.0, 26.0],
+      [37.0, 60.0],
+      [12.0, 60.0],
+      [12.0, 26.0]
+    ]
+  },
+  {
+    "id": "iran_iraq",
+    "name": "Iran / Iraq",
+    "status": "closed",
+    "statusLabel": "Closed",
+    "note": "NOTAM active — airspace restricted",
+    "color": "#ef4444",
+    "polygon": [
+      [39.0, 44.0],
+      [39.0, 65.0],
+      [22.0, 65.0],
+      [22.0, 44.0]
+    ]
+  },
+  {
+    "id": "ukraine_russia",
+    "name": "Ukraine / Eastern Russia",
+    "status": "closed",
+    "statusLabel": "Closed",
+    "note": "Closed since Feb 2022 — rerouting via polar routes",
+    "color": "#ef4444",
+    "polygon": [
+      [72.0, 22.0],
+      [72.0, 180.0],
+      [44.0, 180.0],
+      [44.0, 22.0]
+    ]
+  },
+  {
+    "id": "east_asia",
+    "name": "East Asia",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal operations — high traffic volume",
+    "color": "#22c55e",
+    "polygon": [
+      [50.0, 100.0],
+      [50.0, 145.0],
+      [20.0, 145.0],
+      [20.0, 100.0]
+    ]
+  },
+  {
+    "id": "southeast_asia",
+    "name": "Southeast Asia",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Stable — normal ATC operations",
+    "color": "#22c55e",
+    "polygon": [
+      [20.0, 95.0],
+      [20.0, 125.0],
+      [0.0, 125.0],
+      [0.0, 95.0]
+    ]
+  },
+  {
+    "id": "europe_west",
+    "name": "Western Europe",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal — some demand surge on reroutes",
+    "color": "#22c55e",
+    "polygon": [
+      [58.0, -10.0],
+      [58.0, 15.0],
+      [36.0, 15.0],
+      [36.0, -10.0]
+    ]
+  },
+  {
+    "id": "europe_north",
+    "name": "Northern Europe / Nordics",
+    "status": "limited",
+    "statusLabel": "Limited",
+    "note": "Increased polar route traffic — minor delays",
+    "color": "#f97316",
+    "polygon": [
+      [72.0, -25.0],
+      [72.0, 32.0],
+      [57.0, 32.0],
+      [57.0, -25.0]
+    ]
+  },
+  {
+    "id": "central_asia",
+    "name": "Central Asia",
+    "status": "limited",
+    "statusLabel": "Limited",
+    "note": "Some routes restricted — alternative corridors active",
+    "color": "#f97316",
+    "polygon": [
+      [50.0, 55.0],
+      [50.0, 90.0],
+      [30.0, 90.0],
+      [30.0, 55.0]
+    ]
+  },
+  {
+    "id": "south_asia",
+    "name": "South Asia",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal — busy season traffic",
+    "color": "#22c55e",
+    "polygon": [
+      [35.0, 60.0],
+      [35.0, 95.0],
+      [5.0, 95.0],
+      [5.0, 60.0]
+    ]
+  },
+  {
+    "id": "north_africa",
+    "name": "North Africa",
+    "status": "limited",
+    "statusLabel": "Limited",
+    "note": "Libya airspace restricted — Egypt/Morocco stable",
+    "color": "#f97316",
+    "polygon": [
+      [37.0, -5.0],
+      [37.0, 37.0],
+      [20.0, 37.0],
+      [20.0, -5.0]
+    ]
+  },
+  {
+    "id": "sub_saharan",
+    "name": "Sub-Saharan Africa",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Stable — Ethiopian, Kenya Airways operating normally",
+    "color": "#22c55e",
+    "polygon": [
+      [20.0, -18.0],
+      [20.0, 52.0],
+      [-35.0, 52.0],
+      [-35.0, -18.0]
+    ]
+  },
+  {
+    "id": "north_america",
+    "name": "North America",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal operations — transatlantic routes active",
+    "color": "#22c55e",
+    "polygon": [
+      [73.0, -140.0],
+      [73.0, -55.0],
+      [15.0, -55.0],
+      [15.0, -140.0]
+    ]
+  },
+  {
+    "id": "south_america",
+    "name": "South America",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal — Latam hub connections stable",
+    "color": "#22c55e",
+    "polygon": [
+      [15.0, -82.0],
+      [15.0, -34.0],
+      [-55.0, -34.0],
+      [-55.0, -82.0]
+    ]
+  },
+  {
+    "id": "oceania",
+    "name": "Oceania / Pacific",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Normal — trans-Pacific routes unaffected",
+    "color": "#22c55e",
+    "polygon": [
+      [-8.0, 110.0],
+      [-8.0, 180.0],
+      [-50.0, 180.0],
+      [-50.0, 110.0]
+    ]
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "Istanbul routing stable — major bypass hub",
+    "color": "#22c55e",
+    "polygon": [
+      [43.0, 26.0],
+      [43.0, 45.0],
+      [36.0, 45.0],
+      [36.0, 26.0]
+    ]
+  },
+  {
+    "id": "north_atlantic",
+    "name": "North Atlantic Track System",
+    "status": "open",
+    "statusLabel": "Open",
+    "note": "NATS active — polar diversions increasing",
+    "color": "#22c55e",
+    "polygon": [
+      [75.0, -50.0],
+      [75.0, -10.0],
+      [55.0, -10.0],
+      [55.0, -50.0]
+    ]
+  }
+]

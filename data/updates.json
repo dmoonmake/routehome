@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "time": "14:32 UTC",
+    "priority": "high",
+    "message": "🔴 Middle East airspace partially closed — multiple NOTAMs active. Avoid DXB, DOH, AMM transit.",
+    "source": "ICAO NOTAM"
+  },
+  {
+    "id": 2,
+    "time": "13:58 UTC",
+    "priority": "high",
+    "message": "🔴 Iran/Iraq airspace CLOSED — EU/US carriers rerouting via Turkey or Central Asia corridors.",
+    "source": "Eurocontrol"
+  },
+  {
+    "id": 3,
+    "time": "13:10 UTC",
+    "priority": "medium",
+    "message": "🟠 Northern Europe experiencing 30–60 min delays due to polar route traffic surge.",
+    "source": "NATS"
+  },
+  {
+    "id": 4,
+    "time": "12:45 UTC",
+    "priority": "low",
+    "message": "🟢 East Asia hubs (NRT, ICN, HKG) operating normally — recommended transit points.",
+    "source": "Flightradar24"
+  },
+  {
+    "id": 5,
+    "time": "12:30 UTC",
+    "priority": "low",
+    "message": "🟢 Singapore Changi (SIN) active as major Asia-Europe bypass hub.",
+    "source": "CAAS"
+  },
+  {
+    "id": 6,
+    "time": "11:55 UTC",
+    "priority": "medium",
+    "message": "🟠 Lufthansa, Air France, KLM avoiding Russian/Ukrainian airspace — expect longer flight times.",
+    "source": "Eurocontrol"
+  },
+  {
+    "id": 7,
+    "time": "11:20 UTC",
+    "priority": "low",
+    "message": "🟢 Istanbul (IST) serving as key bypass hub — Turkish Airlines maintaining full schedule.",
+    "source": "DHMI"
+  },
+  {
+    "id": 8,
+    "time": "10:48 UTC",
+    "priority": "low",
+    "message": "🟢 Addis Ababa (ADD) and Nairobi (NBO) confirming stable East Africa routing.",
+    "source": "Ethiopian Airlines"
+  },
+  {
+    "id": 9,
+    "time": "10:15 UTC",
+    "priority": "medium",
+    "message": "🟠 North Africa partial restrictions — Libya airspace active NOTAM. Morocco and Egypt routes clear.",
+    "source": "ICAO"
+  },
+  {
+    "id": 10,
+    "time": "09:40 UTC",
+    "priority": "low",
+    "message": "🟢 Trans-Pacific routes (LAX/SFO ↔ NRT/ICN) unaffected — normal operations.",
+    "source": "FAA"
+  },
+  {
+    "id": 11,
+    "time": "09:05 UTC",
+    "priority": "medium",
+    "message": "🟠 Central Asia corridor partially restricted — some carriers filing alternate FPLs via South Asia.",
+    "source": "ICAO"
+  },
+  {
+    "id": 12,
+    "time": "08:22 UTC",
+    "priority": "low",
+    "message": "🟢 Reykjavik (KEF) reporting increased traffic — operating as polar route waypoint.",
+    "source": "Isavia"
+  },
+  {
+    "id": 13,
+    "time": "07:55 UTC",
+    "priority": "low",
+    "message": "🟢 Oceania corridors stable — Qantas and Air NZ operating normal schedules.",
+    "source": "CASA"
+  },
+  {
+    "id": 14,
+    "time": "07:30 UTC",
+    "priority": "high",
+    "message": "🔴 REMINDER: Russian airspace remains closed to EU/US carriers — 3rd year of operational reroutes.",
+    "source": "Eurocontrol"
+  }
+]
